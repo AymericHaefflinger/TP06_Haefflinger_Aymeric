@@ -14,7 +14,7 @@ $conn = array(
 'user' => 'apiWeb',
 'host' => 'localhost',
 'password' => 'apiWeb',
-'dbname' => 'tp06_web',
+'dbname' => 'TP06_WEB_HAEFFLINGER',
 'port' => '5432'
 );
 $entityManager = EntityManager::create($conn, $config);
